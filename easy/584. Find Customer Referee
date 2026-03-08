@@ -1,7 +1,0 @@
--- LeetCode 1757
--- Recyclable and Low Fat Products
--- https://leetcode.com/problems/find-customer-referee/description/
-
-SELECT NAME
-FROM Customer
-WHERE REFEREE_ID<>2 OR REFEREE_ID IS NULL;
