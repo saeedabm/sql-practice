@@ -1,5 +1,5 @@
--- LeetCode 1757
--- Recyclable and Low Fat Products
+-- LeetCode 584
+-- Find Customer Refree
 -- https://leetcode.com/problems/find-customer-referee/description/
 
 SELECT NAME
